@@ -1,2 +1,2 @@
-# linked-code
-Connecting your code.
+# Linked code
+Connecting software artifacts.
